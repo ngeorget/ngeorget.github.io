@@ -1,10 +1,10 @@
 # My Portfolio Website
 
-Based on the BootstrapMade → [MyResume](https://bootstrapmade.com/demo/MyResume/)
+Based on the BootstrapMade → [MyPage](https://bootstrapmade.com/demo/MyPage/)
 
 ```
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+Template Name: MyPage
+Template URL: https://bootstrapmade.com/mypage-bootstrap-personal-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 ```
